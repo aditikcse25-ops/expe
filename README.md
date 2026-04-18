@@ -51,6 +51,10 @@
                 <label for="message">Message:</label><br>
                 <textarea id="message" name="message" rows="4" required></textarea>
                 <br><br>
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
 
 
 </html>
