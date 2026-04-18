@@ -20,4 +20,14 @@
             <p>Providing the most durable tools for your industrial needs.</p>
             <a href="#contact" class="cta-button">Get a Quote Today</a>
         </section>
+        <hr>
+
+        <section id="team">
+            <h2>Meet Our Team</h2>
+            <div class="team-container">
+                <article class="team-card">
+                    <img src="https://getweeklyupdate.com/blog/wp-content/uploads/2018/02/27.jpg" alt="CEO Portrait">
+                    <h3>John Doe</h3>
+                    <p>Founder & CEO</p>
+                </article>
 </html>
