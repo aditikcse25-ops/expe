@@ -55,6 +55,9 @@
             </form>
         </section>
     </main>
+<footer>
+        <p>&copy; 2026 Precision Tools Inc. All rights reserved.</p>
+    </footer>
 
 
 </html>
