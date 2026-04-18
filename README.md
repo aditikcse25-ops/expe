@@ -37,5 +37,13 @@
                 </article>
             </div>
         </section>
+        <hr>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <form action="#">
+                <label for="name">Full Name:</label><br>
+                <input type="text" id="name" name="name" required placeholder="Enter your name">
+                <br><br>
 
 </html>
