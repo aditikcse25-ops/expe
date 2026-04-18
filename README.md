@@ -48,6 +48,9 @@
                 <label for="email">Email Address:</label><br>
                 <input type="email" id="email" name="email" required placeholder="name@company.com">
                 <br><br>
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" required></textarea>
+                <br><br>
 
 
 </html>
