@@ -30,4 +30,12 @@
                     <h3>John Doe</h3>
                     <p>Founder & CEO</p>
                 </article>
+                <article class="team-card">
+                    <img src="https://occupation-dictionary.vtc.edu.hk/f/occupation/4278/690c492/description_duty_image-2716-2719.jpg" alt="Engineer Portrait">
+                    <h3>Jane Smith</h3>
+                    <p>Chief Engineer</p>
+                </article>
+            </div>
+        </section>
+
 </html>
