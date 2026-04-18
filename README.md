@@ -45,5 +45,9 @@
                 <label for="name">Full Name:</label><br>
                 <input type="text" id="name" name="name" required placeholder="Enter your name">
                 <br><br>
+                <label for="email">Email Address:</label><br>
+                <input type="email" id="email" name="email" required placeholder="name@company.com">
+                <br><br>
+
 
 </html>
