@@ -14,4 +14,10 @@
             </ul>
         </nav>
     </header>
+    <main>
+        <section id="home">
+            <h1>Quality Engineering for a Modern World</h1>
+            <p>Providing the most durable tools for your industrial needs.</p>
+            <a href="#contact" class="cta-button">Get a Quote Today</a>
+        </section>
 </html>
